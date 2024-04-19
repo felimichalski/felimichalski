@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Felipe Michalski.
-- 👀 I’m interested in fullstack web development, AI, ethical hacking and cybersecurity.
-- 👨‍💼 I’m currently improving my skills with Node js and React.
-- 🦾 The technologies that I know are HTML, CSS, Javascript for frontend, Node js, Mongo, SQL, PHP. Besides, I use some libraries like Bootstrap or Jquery.
-- 💻 I want to collaborate on any innovative and challenging project.
-- 📫 You can contact me here or at my email felimichalski@icloud.com.
-- 💭 I speak native spanish and basic/intermediate english.
-<!---
-felimichalski/felimichalski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 👋 Hi, I’m Felipe Michalski.
+- 👨‍💻 Software backend developer, currently working with Spring with Java and Kotlin.
+
+- 📚 Student of the Bachelor's Degree in Computer Science at the Universidad de Buenos Aires.
+
+- 👀 Interested in microservices development, cloud infrastructure, DevOps and software architecture.
+
+- 💭 Languages: native spanish and intermediate/advance english.
+
+- 📫 Contact me via [email](mailto:felimichalski@icloud.com) or [LinkedIn](https://www.linkedin.com/in/felipe-michalski-b95a3b218/).
