@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Felipe Michalski.
-- 👨‍💻 Software backend developer, currently working with Spring with Java and Kotlin.
+- 👨‍💻 Software backend developer, currently working with Spring (Java and Kotlin).
 
 - 📚 Student of the Bachelor's Degree in Computer Science at the Universidad de Buenos Aires.
 
