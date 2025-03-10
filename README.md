@@ -4,7 +4,7 @@
 
 - 📚 Student of the Bachelor's Degree in Computer Science at the Universidad de Buenos Aires.
 
-- 👀 Interested in microservices development, cloud infrastructure, DevOps and software architecture.
+- 👀 Interested in microservices development, cloud infrastructure, AI and software architecture.
 
 - 💭 Languages: native spanish and intermediate/advance english.
 
